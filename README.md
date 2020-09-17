@@ -1,4 +1,4 @@
-# Sistema-Gerenciamento-TCC
+# Sistema de Gerenciamento de trabalhos de conclusão de curso
 Projeto realizado para o trabalho da disciplina de Linguagem de Programação II
 
 Para entrar com mais praticidade no software, digite a letra q na primeira tela(após tecle enter), w, e, r, t respectivamente nas demais telas de armazenagem de arquivo.
